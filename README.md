@@ -1,10 +1,10 @@
-# Hi there, I'm Apex-Shift 👋
+# Hi there, I'm Apex-Shift 🛠️
 
-An automation and software engineer specialized in intelligent desktop workflows, growth architectures, and interactive digital interfaces. I build modern GUI utilities, automated sales assets, and secure processing logic.
+System automation, security auditing, and desktop software engineer. I build low-overhead desktop utilities, privacy-focused data tools, and secure conversational automation pipelines.
 
 ---
 
-### 🚀 Automation & Development Telemetry
+### 🛡️ System & Auditing Telemetry
 
 <p align="center">
   <img src="https://vercel.app" alt="Apex-Shift GitHub Stats" width="48%" />
@@ -13,33 +13,31 @@ An automation and software engineer specialized in intelligent desktop workflows
 
 ---
 
-### 🛠️ Core Technology Stack
+### 🎛️ Toolset & Core Technologies
 
 <p align="left">
-  <!-- Core Languages -->
+  <!-- Systems & Scripting -->
   <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="HTML5" />
-  <img src="https://shields.io" alt="CSS3" />
-  <br />
-  <!-- Frameworks & Ecosystem -->
   <img src="https://shields.io" alt="PySide6" />
+  <img src="https://shields.io" alt="Git" />
+  <br />
+  <!-- Web & Intelligence Automation -->
   <img src="https://shields.io" alt="Flask" />
   <img src="https://shields.io" alt="OpenAI" />
-  <img src="https://shields.io" alt="Git" />
+  <img src="https://shields.io" alt="JavaScript" />
 </p>
 
 ---
 
-### 📂 Operational Modules Focus
+### 🔍 Specialized Vectors
 
-- **Desktop Software Architecture**: Creating high-performance desktop interfaces with deep hardware integration using PySide6/Qt.
-- **Inbound Engineering & Growth**: Compiling structured conversational pipelines, data validators, and conversion widgets.
-- **Local File Security & Processing**: Purging telemetry metadata, converting multi-tenant assets, and handling isolated scripts.
+- **Cyber & Wireless Auditing**: Developing local tracking, signal analysis, and hardware-adjacent diagnostic monitors (`wireless-signal-auditor`, `cam-hunter`).
+- **Data Privacy & Sanitization**: Engineering metadata stripping engines and isolated desktop processing modules (`exif-purger`).
+- **Targeted Growth Utilities**: Building automated pipeline models, decision-scoring tools, and context-aware client persona processors (`Buyer-Persona`).
 
 ---
 
-### 📈 Global Contributions Streak
+### 📈 Activity Metrics
 
 <p align="center">
   <img src="https://herokuapp.com" alt="GitHub Streak" width="100%" />
@@ -47,4 +45,4 @@ An automation and software engineer specialized in intelligent desktop workflows
 
 ---
 
-*“Automating structural problems out of the production cycle, one repository at a time.”*
+*“Building detached, local-first tools to audit, automate, and secure data layers.”*
