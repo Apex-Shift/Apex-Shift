@@ -8,15 +8,14 @@
 ██║  ██║ ██║     ███████╗██╔╝ ██╗   ███████║██║  ██║██║██║        ██║
 
 
-root@apex-shift:~# cat /etc/profile.txt
---------------------------------------------------
-> OPERATOR  : Apex-Shift
-> SPECIALTY : Low-level System Automation, Cyber-Deception, & High-Performance UI/CLI.
-> MISSION   : Building production-ready, zero-bloat security utilities that bridge the 
-              gap between heavy system architecture and seamless user experiences.
---------------------------------------------------
+# Final Commit: Closing the Loop
 
-[ Languages ]  ──► Python (Asyncio), C (Core Systems), Bash, SQL, JavaScript
-[ Frameworks ] ──► CustomTkinter, PySide6, FastAPI, Plotly.js, Flask, Node.js
-[ Systems ]    ──► Linux, Windows Low-Level APIs, Disk & Storage Subsystems, Docker
-[ Workflow ]   ──► Native CLI Tooling, Extensible Plugin Architectures, Automated CI/CD
+I am putting an end to my journey in computer science.
+
+Technology is often marketed as a free and open world where anyone with skills can build anything. The reality is different. Software development and cybersecurity have become gated communities. If you don't have the money for high-end hardware, continuous subscriptions, or cloud servers, you are left at the door, regardless of your passion, logic, or code quality.
+
+Building asynchronous tools, virtual file systems, and custom architectures from nothing was a great technical challenge. But fighting a system where your financial background determines your right to create is an exhausting and useless battle. 
+
+To those who stumbled upon my repositories: the code is yours. 
+
+Signing off.
