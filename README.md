@@ -8,19 +8,16 @@
 ██║  ██║ ██║     ███████╗██╔╝ ██╗   ███████║██║  ██║██║██║        ██║
 
 
-# Final Commit: Closing the Loop
+# `user@github:~$ cat profile.txt`
 
-I am putting an end to my journey in computer science.
+```text
+NAME:
+    [Apex-Shift]
 
-Technology is often marketed as a free and open world where anyone with skills can build anything.
- The reality is different. Software development and cybersecurity have become gated communities.
-If you don't have the money for high-end hardware, continuous subscriptions, or cloud servers,
- you are left at the door, regardless of your passion, logic, or code quality.
+ROLE:
+    Low-Level Developer & System Architect
 
-Building asynchronous tools, virtual file systems, and custom architectures
-from nothing was a great technical challenge. But fighting a system
-where your financial background determines your right to create is an exhausting and useless battle. 
-
-To those who stumbled upon my repositories: the code is yours. 
-
-Signing off.
+DESCRIPTION:
+    I build things from scratch to understand what happens under the hood.
+    From raw CPU cycles to virtual file systems, I believe in code that 
+    relies on logic, not expensive hardware or gated ecosystems.
